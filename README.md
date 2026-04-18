@@ -9,7 +9,6 @@ This project helps farmers (especially in regions like Sri Lanka) make data-driv
 - **Beautiful Responsive Interface** — Modern form with gradient background, reset button, and real-time prediction display.
 - **Data Preprocessing & Model Training** — Separate scripts for preprocessing, training, and testing.
 - **Reset Form Button** — Clears inputs and result easily.
-- **Modular Structure** — Easy to extend (e.g., add fertilizer recommendation, market prices).
 ## Demo Screenshots
 
 Here are visual examples of the Crop Recommendation System in action:
