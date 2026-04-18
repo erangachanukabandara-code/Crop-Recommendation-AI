@@ -23,7 +23,7 @@ Here are visual examples of the Crop Recommendation System in action:
 
 *Screenshot showing a filled form, successful prediction (e.g., "Recommended Crop: rice"), and optional weather integration display for Negombo/Colombo area.*
 
-> **Note**: Add your own screenshot here!  
+> **Note**: 
 > How to create one:  
 > 1. Run the app (`python app.py`)  
 > 2. Open http://127.0.0.1:5000 in your browser.
